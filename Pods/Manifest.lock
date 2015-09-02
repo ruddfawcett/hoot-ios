@@ -1,0 +1,20 @@
+PODS:
+  - Bolts/Tasks (1.2.1)
+  - Keys (1.0.0)
+  - Parse (1.8.2):
+    - Bolts/Tasks (>= 1.2.1)
+
+DEPENDENCIES:
+  - Keys (from `Pods/CocoaPodsKeys`)
+  - Parse (~> 1.8)
+
+EXTERNAL SOURCES:
+  Keys:
+    :path: Pods/CocoaPodsKeys
+
+SPEC CHECKSUMS:
+  Bolts: 7686a5cb204d1ac54cee26f12d9b7622db3f80d1
+  Keys: 7d2ff6ff42f6903358267ce56e9392f83c31acfe
+  Parse: 188601c6cd91fae55906badd283b513104a3a8c9
+
+COCOAPODS: 0.38.2
